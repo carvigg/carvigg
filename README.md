@@ -5,7 +5,7 @@
  My experience as a full-time employee has been mostly in that area (Marketing).   
  As a freelancer I've worked with many sectors, ONGs, Logistics, Custody, Banking, Finance, Design Agencies and software development. 
 
- - I've beeing working in web development for the last 10 years. 
+ - I've been working in web development for the last 10 years. 
  - I'm currently learning Cibersecurity in Buenos Aires University in a 6 months post-graduate study.  
  - I'm also looking to start new experiences with WP REACT and Gutemberg Blocks as my entire expertise in custom themes for wp has been mostly with ACF/PHP or other similar tools and technology. 
  - I love listening to symphonic and power metal, but my entire spotify can be ecleptic and go from Eminen to Avantasia.
