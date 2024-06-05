@@ -20,4 +20,4 @@
 ### Technologies, Libraries & Skills
 
 [![My Skills](https://skillicons.dev/icons?i=wordpress,jquery,gulp,aws,bitbucket,cloudflare,github,ai,npm,ps,postman,react,redis,sass,vscode,xd,figma)](https://skillicons.dev)   
-... and quite a few others: Gsap, Apache, Cpanel, Plesk, Malware removal ...
+... and quite a few others: Gsap, Apache, Cpanel, Plesk, Malware removal, Custom Woocommerce templates, REST API, Hubspot, Google Analytics 4, SEO technical best practices. 
